@@ -1,4 +1,5 @@
 ## Hi there, I'm Junior 👋
+## I'm Software Developer 💻
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juniorprogrammerCV&label=Profile%20views&color=0eb421&style=flat" alt="nunolima10"/></p>
 
@@ -27,13 +28,13 @@
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
   <h2>Connect with me</h2>
-  <a href="https://facebook.com/profile.php?id=100013823475799">
+  <a href="https://www.facebook.com/profile.php?id=100013823475799">
       <img height='35px' width='45px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/facebook/facebook-original.svg"/>     
    </a>
    <a href="https://instagram.com/juniordelgado576?igsh=YzljYTk1ODg3Zg==">
       <img height='35px' width='45px' src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"/>     
    </a>
-  <a href="">
+  <a href="https://www.linkedin.com/in/junior-delgado-b2714b319?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
       <img height='35px' width='45px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />     
     </a>
   </div>
