@@ -21,7 +21,6 @@
   <img height='35px' width='45px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
   <img height='35px' width='45px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg" />
   <img height='35px' width='45px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" />
-  <img height='35px' width='45px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pgadmin/pgadmin-original.svg" />
   
 </div>
 
